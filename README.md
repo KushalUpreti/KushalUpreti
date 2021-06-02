@@ -1,4 +1,4 @@
-Hey there.🙋‍♂️
+Hey there 🙋‍♂️.<br/>
 I'm Kushal Upreti.
 
  - 🎓 I'm studying softeware engineering at the University of Northampton.
