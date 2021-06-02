@@ -4,15 +4,15 @@ Hey there.
 </p>
 
 <p align=center>
-  <a href="https://github.com/Terabyte17">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/KushalUpreti">
+    <img src="https://badges.pufler.dev/visits/KushalUpreti/KushalUpreti?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/KushalUpreti?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/KushalUpreti?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
+<a href="https://github.com/KushalUpreti?tab=repositories"><img src="https://img.shields.io/github/followers/KushalUpreti?style=social"></a>
 </p>
 
 ## 💻 My Tech Stack
