@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Readme contents coming soon..
+![image](https://user-images.githubusercontent.com/55836966/120520519-9ccbc000-c3f3-11eb-8d59-0b09c48a0ec7.png)
 <!--
 **KushalUpreti/KushalUpreti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
