@@ -2,7 +2,7 @@ Hey there 🙋‍♂️.<br/>
 I'm Kushal Upreti.
 
  - 🎓 I'm studying softeware engineering at the University of Northampton.
- - 🌱 I'm currently learning Native Android, React and ML integration with web/mobile technologies.
+ - 🌱 I'm currently working with Native Android, React and ML integration with web/mobile technologies.
  - 👯 I'm looking to collaborate on full stack web/mobile apps!
  - 🤔 I'm looking for help with Kotlin and JavaScript.
  - 💬 Ask me about Android SDK, fitness, games and anime
