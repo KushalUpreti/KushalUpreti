@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/55836966/120520519-9ccbc000-c3f3-11eb-8d59-0b09c48a0ec7.png)
-
+Hey there.
 
 ## 💻 My Tech Stack
 
