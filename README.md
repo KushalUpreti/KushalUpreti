@@ -1,6 +1,6 @@
 Hey there.
 
-<p align="center"><a href="https://www.facebook.com/kushal023/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=blue" height=25></a> <a href="https://www.linkedin.com/in/kushal-upreti-55240912a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/kushal_u101/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p align="center"><a href="https://www.facebook.com/kushal023/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=blue" height=25></a> <a href="https://www.linkedin.com/in/kushal-upreti-55240912a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/kushal_u101/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
 ## 💻 My Tech Stack
