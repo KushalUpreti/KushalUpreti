@@ -6,7 +6,7 @@ I'm Kushal Upreti.
  - 👯 I'm looking to collaborate on full stack web/mobile apps.
  - 🐛 There are some bugs in my projects that are desperate for my attention.
 
-<p align="center"> <a href="https://www.linkedin.com/in/kushal-upreti-55240912a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="mailto:kushalupreti101@gmail.com"><img src="https://img.shields.io/badge/gmail-%23FFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=ff0033" height=25></a> <a href="https://www.instagram.com/kushal_u101/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </a>  <a href="https://www.facebook.com/kushal023/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=blue" height=25></a>
+<p align="center"> <a href="https://www.linkedin.com/in/kushal-upreti-55240912a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:kushalupreti101@gmail.com"><img src="https://img.shields.io/badge/gmail-%23FFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=ff0033" height=25></a> <a href="https://www.instagram.com/kushal_u101/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </a>  <a href="https://www.facebook.com/kushal023/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=blue" height=25></a>
 </p>
 
 <p align=center>
