@@ -1,5 +1,5 @@
 Hey there 🙋‍♂️.<br/>
-I'm Kushal Upreti.
+I'm Kushal Upreti. <br/>
 https://portfolio-kushalupreti.vercel.app/
 
  - 🎓 I'm studying software engineering at the University of Northampton.
