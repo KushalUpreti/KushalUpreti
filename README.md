@@ -3,7 +3,6 @@ I'm Kushal Upreti. <br/>
 https://portfolio-kushalupreti.vercel.app/
 
  - 🎓 I'm studying software engineering at the University of Northampton.
- - 🌱 I'm currently working on my React-Chat application whenever time permits.
  - 👯 I'm looking to collaborate on full stack web/mobile apps.
  - 🐛 There are some bugs in my projects that are desperate for my attention.
 
