@@ -1,6 +1,6 @@
 Hey there 🙋‍♂️.<br/>
 I'm Kushal Upreti. <br/>
-https://portfolio-kushalupreti.vercel.app/
+https://kushalupreti.com.np/
 
  - 🎓 I'm studying software engineering at the University of Northampton.
  - 👯 I'm looking to collaborate on full stack web/mobile apps.
